@@ -1,0 +1,15 @@
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\2pr\2pr\bin\Debug\net6.0\zd1.exe
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\2pr\2pr\bin\Debug\net6.0\zd1.deps.json
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\2pr\2pr\bin\Debug\net6.0\zd1.runtimeconfig.json
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\2pr\2pr\bin\Debug\net6.0\zd1.dll
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\2pr\2pr\bin\Debug\net6.0\zd1.pdb
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\2pr\2pr\obj\Debug\net6.0\zd1.csproj.AssemblyReference.cache
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\2pr\2pr\obj\Debug\net6.0\zd1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\2pr\2pr\obj\Debug\net6.0\zd1.AssemblyInfoInputs.cache
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\2pr\2pr\obj\Debug\net6.0\zd1.AssemblyInfo.cs
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\2pr\2pr\obj\Debug\net6.0\zd1.csproj.CoreCompileInputs.cache
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\2pr\2pr\obj\Debug\net6.0\zd1.dll
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\2pr\2pr\obj\Debug\net6.0\refint\zd1.dll
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\2pr\2pr\obj\Debug\net6.0\zd1.pdb
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\2pr\2pr\obj\Debug\net6.0\zd1.genruntimeconfig.cache
+C:\Users\fibel\Documents\Учеба\ОАП\Проги\2pr\2pr\obj\Debug\net6.0\ref\zd1.dll
