@@ -1,0 +1,6 @@
+C:\Door\Новая папка (2)\Проги\5pr\2zd\bin\Debug\2zd.exe.config
+C:\Door\Новая папка (2)\Проги\5pr\2zd\bin\Debug\2zd.exe
+C:\Door\Новая папка (2)\Проги\5pr\2zd\bin\Debug\2zd.pdb
+C:\Door\Новая папка (2)\Проги\5pr\2zd\obj\Debug\2zd.exe
+C:\Door\Новая папка (2)\Проги\5pr\2zd\obj\Debug\2zd.pdb
+C:\Door\Новая папка (2)\Проги\5pr\2zd\obj\Debug\2zd.csprojAssemblyReference.cache

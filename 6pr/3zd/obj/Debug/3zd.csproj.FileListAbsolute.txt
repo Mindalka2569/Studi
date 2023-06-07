@@ -1,0 +1,5 @@
+C:\Door\Новая папка (2)\Проги\6pr\3zd\bin\Debug\3zd.exe.config
+C:\Door\Новая папка (2)\Проги\6pr\3zd\bin\Debug\3zd.exe
+C:\Door\Новая папка (2)\Проги\6pr\3zd\bin\Debug\3zd.pdb
+C:\Door\Новая папка (2)\Проги\6pr\3zd\obj\Debug\3zd.exe
+C:\Door\Новая папка (2)\Проги\6pr\3zd\obj\Debug\3zd.pdb
