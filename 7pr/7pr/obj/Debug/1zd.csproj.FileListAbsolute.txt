@@ -1,0 +1,6 @@
+C:\Door\Новая папка (2)\Проги\7pr\7pr\bin\Debug\7pr.exe.config
+C:\Door\Новая папка (2)\Проги\7pr\7pr\bin\Debug\7pr.exe
+C:\Door\Новая папка (2)\Проги\7pr\7pr\bin\Debug\7pr.pdb
+C:\Door\Новая папка (2)\Проги\7pr\7pr\obj\Debug\1zd.csprojAssemblyReference.cache
+C:\Door\Новая папка (2)\Проги\7pr\7pr\obj\Debug\7pr.exe
+C:\Door\Новая папка (2)\Проги\7pr\7pr\obj\Debug\7pr.pdb
