@@ -1,0 +1,19 @@
+C:\Users\fibel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\fibel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\fibel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\fibel\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\fibel\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\fibel\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\fibel\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\fibel\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\fibel\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\fibel\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+Y:\Группы\Черновики\ОП.04 Основы алгормизации и программрования\1ИСП 11-31ВБ\Смирнов Даниил Александрович\Программы\pr 15\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+Y:\Группы\Черновики\ОП.04 Основы алгормизации и программрования\1ИСП 11-31ВБ\Смирнов Даниил Александрович\Программы\pr 15\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+Y:\Группы\Черновики\ОП.04 Основы алгормизации и программрования\1ИСП 11-31ВБ\Смирнов Даниил Александрович\Программы\pr 15\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+Y:\Группы\Черновики\ОП.04 Основы алгормизации и программрования\1ИСП 11-31ВБ\Смирнов Даниил Александрович\Программы\pr 15\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+Y:\Группы\Черновики\ОП.04 Основы алгормизации и программрования\1ИСП 11-31ВБ\Смирнов Даниил Александрович\Программы\pr 15\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+Y:\Группы\Черновики\ОП.04 Основы алгормизации и программрования\1ИСП 11-31ВБ\Смирнов Даниил Александрович\Программы\pr 15\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+Y:\Группы\Черновики\ОП.04 Основы алгормизации и программрования\1ИСП 11-31ВБ\Смирнов Даниил Александрович\Программы\pr 15\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+Y:\Группы\Черновики\ОП.04 Основы алгормизации и программрования\1ИСП 11-31ВБ\Смирнов Даниил Александрович\Программы\pr 15\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+Y:\Группы\Черновики\ОП.04 Основы алгормизации и программрования\1ИСП 11-31ВБ\Смирнов Даниил Александрович\Программы\pr 15\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
