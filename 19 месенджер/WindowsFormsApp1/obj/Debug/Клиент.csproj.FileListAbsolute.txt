@@ -1,0 +1,11 @@
+C:\Users\fibel\Documents\Учеба\Новая папка\Проект\Проект\WindowsFormsApp1\bin\Debug\19 месенджер\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\fibel\Documents\Учеба\Новая папка\Проект\Проект\WindowsFormsApp1\bin\Debug\19 месенджер\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\fibel\Documents\Учеба\Новая папка\Проект\Проект\WindowsFormsApp1\bin\Debug\19 месенджер\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\fibel\Documents\Учеба\Новая папка\Проект\Проект\WindowsFormsApp1\bin\Debug\19 месенджер\WindowsFormsApp1\obj\Debug\Клиент.csproj.AssemblyReference.cache
+C:\Users\fibel\Documents\Учеба\Новая папка\Проект\Проект\WindowsFormsApp1\bin\Debug\19 месенджер\WindowsFormsApp1\obj\Debug\Клиент.csproj.SuggestedBindingRedirects.cache
+C:\Users\fibel\Documents\Учеба\Новая папка\Проект\Проект\WindowsFormsApp1\bin\Debug\19 месенджер\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\fibel\Documents\Учеба\Новая папка\Проект\Проект\WindowsFormsApp1\bin\Debug\19 месенджер\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\fibel\Documents\Учеба\Новая папка\Проект\Проект\WindowsFormsApp1\bin\Debug\19 месенджер\WindowsFormsApp1\obj\Debug\Клиент.csproj.GenerateResource.cache
+C:\Users\fibel\Documents\Учеба\Новая папка\Проект\Проект\WindowsFormsApp1\bin\Debug\19 месенджер\WindowsFormsApp1\obj\Debug\Клиент.csproj.CoreCompileInputs.cache
+C:\Users\fibel\Documents\Учеба\Новая папка\Проект\Проект\WindowsFormsApp1\bin\Debug\19 месенджер\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\fibel\Documents\Учеба\Новая папка\Проект\Проект\WindowsFormsApp1\bin\Debug\19 месенджер\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

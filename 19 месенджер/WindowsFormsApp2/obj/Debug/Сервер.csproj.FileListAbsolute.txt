@@ -1,0 +1,44 @@
+C:\Users\fibel\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Fopr.exe.config
+C:\Users\fibel\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Fopr.exe
+C:\Users\fibel\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Fopr.pdb
+C:\Users\fibel\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Сервер.csproj.AssemblyReference.cache
+C:\Users\fibel\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Сервер.csproj.SuggestedBindingRedirects.cache
+C:\Users\fibel\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\fibel\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Forp.Properties.Resources.resources
+C:\Users\fibel\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Сервер.csproj.GenerateResource.cache
+C:\Users\fibel\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Сервер.csproj.CoreCompileInputs.cache
+C:\Users\fibel\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Fopr.exe
+C:\Users\fibel\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Fopr.pdb
+C:\Users\user\Desktop\Мусорка\1-ИСП11-31ВБ\Смирнов\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Fopr.exe.config
+C:\Users\user\Desktop\Мусорка\1-ИСП11-31ВБ\Смирнов\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Fopr.exe
+C:\Users\user\Desktop\Мусорка\1-ИСП11-31ВБ\Смирнов\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Fopr.pdb
+C:\Users\user\Desktop\Мусорка\1-ИСП11-31ВБ\Смирнов\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Сервер.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Мусорка\1-ИСП11-31ВБ\Смирнов\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Сервер.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Мусорка\1-ИСП11-31ВБ\Смирнов\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\user\Desktop\Мусорка\1-ИСП11-31ВБ\Смирнов\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Forp.Properties.Resources.resources
+C:\Users\user\Desktop\Мусорка\1-ИСП11-31ВБ\Смирнов\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Сервер.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Мусорка\1-ИСП11-31ВБ\Смирнов\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Сервер.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Мусорка\1-ИСП11-31ВБ\Смирнов\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Fopr.exe
+C:\Users\user\Desktop\Мусорка\1-ИСП11-31ВБ\Смирнов\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Fopr.pdb
+C:\Users\user\Desktop\1-ИСП11-31ВБ\Проект\WindowsFormsApp1\bin\Debug\19 месенджер\WindowsFormsApp2\bin\Debug\Fopr.exe.config
+C:\Users\user\Desktop\1-ИСП11-31ВБ\Проект\WindowsFormsApp1\bin\Debug\19 месенджер\WindowsFormsApp2\bin\Debug\Fopr.exe
+C:\Users\user\Desktop\1-ИСП11-31ВБ\Проект\WindowsFormsApp1\bin\Debug\19 месенджер\WindowsFormsApp2\bin\Debug\Fopr.pdb
+C:\Users\user\Desktop\1-ИСП11-31ВБ\Проект\WindowsFormsApp1\bin\Debug\19 месенджер\WindowsFormsApp2\obj\Debug\Сервер.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\1-ИСП11-31ВБ\Проект\WindowsFormsApp1\bin\Debug\19 месенджер\WindowsFormsApp2\obj\Debug\Сервер.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\1-ИСП11-31ВБ\Проект\WindowsFormsApp1\bin\Debug\19 месенджер\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\user\Desktop\1-ИСП11-31ВБ\Проект\WindowsFormsApp1\bin\Debug\19 месенджер\WindowsFormsApp2\obj\Debug\Forp.Properties.Resources.resources
+C:\Users\user\Desktop\1-ИСП11-31ВБ\Проект\WindowsFormsApp1\bin\Debug\19 месенджер\WindowsFormsApp2\obj\Debug\Сервер.csproj.GenerateResource.cache
+C:\Users\user\Desktop\1-ИСП11-31ВБ\Проект\WindowsFormsApp1\bin\Debug\19 месенджер\WindowsFormsApp2\obj\Debug\Сервер.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\1-ИСП11-31ВБ\Проект\WindowsFormsApp1\bin\Debug\19 месенджер\WindowsFormsApp2\obj\Debug\Fopr.exe
+C:\Users\user\Desktop\1-ИСП11-31ВБ\Проект\WindowsFormsApp1\bin\Debug\19 месенджер\WindowsFormsApp2\obj\Debug\Fopr.pdb
+C:\Users\fibel\Documents\Учеба\Новая папка\Проект\Проект\WindowsFormsApp1\bin\Debug\19 месенджер\WindowsFormsApp2\bin\Debug\Fopr.exe.config
+C:\Users\fibel\Documents\Учеба\Новая папка\Проект\Проект\WindowsFormsApp1\bin\Debug\19 месенджер\WindowsFormsApp2\bin\Debug\Fopr.exe
+C:\Users\fibel\Documents\Учеба\Новая папка\Проект\Проект\WindowsFormsApp1\bin\Debug\19 месенджер\WindowsFormsApp2\bin\Debug\Fopr.pdb
+C:\Users\fibel\Documents\Учеба\Новая папка\Проект\Проект\WindowsFormsApp1\bin\Debug\19 месенджер\WindowsFormsApp2\obj\Debug\Сервер.csproj.AssemblyReference.cache
+C:\Users\fibel\Documents\Учеба\Новая папка\Проект\Проект\WindowsFormsApp1\bin\Debug\19 месенджер\WindowsFormsApp2\obj\Debug\Сервер.csproj.SuggestedBindingRedirects.cache
+C:\Users\fibel\Documents\Учеба\Новая папка\Проект\Проект\WindowsFormsApp1\bin\Debug\19 месенджер\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\fibel\Documents\Учеба\Новая папка\Проект\Проект\WindowsFormsApp1\bin\Debug\19 месенджер\WindowsFormsApp2\obj\Debug\Forp.Properties.Resources.resources
+C:\Users\fibel\Documents\Учеба\Новая папка\Проект\Проект\WindowsFormsApp1\bin\Debug\19 месенджер\WindowsFormsApp2\obj\Debug\Сервер.csproj.GenerateResource.cache
+C:\Users\fibel\Documents\Учеба\Новая папка\Проект\Проект\WindowsFormsApp1\bin\Debug\19 месенджер\WindowsFormsApp2\obj\Debug\Сервер.csproj.CoreCompileInputs.cache
+C:\Users\fibel\Documents\Учеба\Новая папка\Проект\Проект\WindowsFormsApp1\bin\Debug\19 месенджер\WindowsFormsApp2\obj\Debug\Fopr.exe
+C:\Users\fibel\Documents\Учеба\Новая папка\Проект\Проект\WindowsFormsApp1\bin\Debug\19 месенджер\WindowsFormsApp2\obj\Debug\Fopr.pdb
